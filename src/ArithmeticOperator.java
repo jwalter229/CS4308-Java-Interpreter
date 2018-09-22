@@ -1,3 +1,5 @@
+// jason walters, alexander urbanyak
+
 public enum ArithmeticOperator
 {
     ADD_OP, MUL_OP,

@@ -1,6 +1,6 @@
 public class Constant implements ArithmeticExpression
 {
-
+    // jason walters, alexander urbanyak
     private int value;
 
     public Constant(int value)

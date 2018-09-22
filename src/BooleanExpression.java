@@ -1,3 +1,5 @@
+// jason walters, alexander urbanyak
+
 public class BooleanExpression {
 
     private ArithmeticExpression expr1, expr2;

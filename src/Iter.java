@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+// jason walters, alexander urbanyak
 public class Iter
 {
     private ArithmeticExpression expr1;

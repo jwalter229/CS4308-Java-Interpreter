@@ -1,3 +1,4 @@
+// jason walters, alexander urbanyak
 public class LexicalException extends Exception
 {
 

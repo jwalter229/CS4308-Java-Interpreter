@@ -1,3 +1,6 @@
+
+// jason walters, alexander urbanyak
+
 public class BinaryExpression implements ArithmeticExpression
 {
 
